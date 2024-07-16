@@ -34,12 +34,18 @@ Thank you for considering contributing to this project! Contributions are welcom
 
 ## Tests
 
-To ensure that your project works as expected, follow these test instructions: Make sure all dependencies are installed with code: npm install.. You can manually test the application by entering various inputs when prompted to ensure that all questions are handled correctly with code: npm test.. After running the application, check the generated README.md file to ensure that all sections are correctly populated with the input data. Verify that the title, description, installation instructions, usage information, contribution guidelines, test instructions, license, GitHub username, and email address are accurately reflected in the README. Check License Badge: Ensure that the license badge is correctly displayed at the top of the README when a license is chosen. Click on the links in the Table of Contents to ensure they navigate to the correct sections within the README. Verify that the correct badge and license information are displayed.
+To ensure that your project works as expected, follow these test instructions: Make sure all dependencies are installed with code: npm install.. You can manually test the application by entering various inputs when prompted to ensure that all questions are handled correctly with code: npm test.. After running the application, check the generated README.md file to ensure that all sections are correctly populated with the input data. Verify that the title, description, installation instructions, usage information, contribution guidelines, test instructions, license, GitHub username, and email address are accurately reflected in the README. Check License Badge: Ensure that the license badge is correctly displayed at the top of the README when a license is chosen. Click on the links in the Table of Contents to ensure they navigate to the correct sections within the README. Verify that the correct badge and license information are displayed. 
 
+<<<<<<< HEAD
+=======
+## Screenshot 
+![alt text](README.png) 
+
+>>>>>>> fbf3c7b86fb6788953d0f2abf49e45786e06623a
 ## Questions
 
 For any questions, please contact me with the information below:
 
 GitHub: [elissegomez24](https://github.com/elissegomez24)  
-Email: elissegomez24@gmail.com
+Email: elissegomez24@gmail.com 
 
