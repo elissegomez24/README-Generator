@@ -1,6 +1,6 @@
 # README Generator
 
-  [MIT License](license.txt)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
 ## Description
 
@@ -26,7 +26,7 @@ Once the application starts, it will prompt you with a series of questions about
 
 ## License
 
-This project is licensed under the MIT [License](license.txt)
+This project is licensed under the [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](license.txt) 
 
 ## Contributing
 
