@@ -4,7 +4,7 @@ function renderLicenseBadge(license) {
   if (!license) {
     return '';
   }
-  return `[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](license.txt)`;
+  return `[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) `;
 }
 
 // TODO: Create a function that returns the license link
@@ -13,7 +13,7 @@ function renderLicenseLink(license) {
   if (!license) {
     return '';
   }
-  return `[${license}][![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](license.txt)`;
+  return `[${license}][![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) `;
 }
 
 // TODO: Create a function that returns the license section of README
